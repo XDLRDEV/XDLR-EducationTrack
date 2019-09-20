@@ -1,2 +1,2 @@
-# XDLR-EducationTrack
+# XDLR-LearningTrack
 学迹链
